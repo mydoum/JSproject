@@ -1,7 +1,8 @@
 {
-  "name": "JSproject",
+  "name": "webstorm",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a JS project",
+  "main": "build.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -9,9 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/mydoum/JSproject.git"
   },
-  "author": "mydoum",
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/mydoum/JSproject/issues"
   },
-  "homepage": "https://github.com/mydoum/JSproject#readme"
+  "homepage": "https://github.com/mydoum/JSproject#readme",
+  "devDependencies": {
+    "jake": "^8.0.12"
+  }
 }
