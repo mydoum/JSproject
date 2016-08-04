@@ -2,6 +2,7 @@ Project JS
 ====
 A simple JS template with
 - jake
+- babel
 
 Requirements
 ---------------
