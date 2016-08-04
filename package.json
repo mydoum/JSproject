@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/mydoum/JSproject.git"
   },
+  "engines": { "node": "6.3.0"},
   "author": "",
   "license": "ISC",
   "bugs": {
