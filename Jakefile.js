@@ -2,7 +2,8 @@
 {
     desc("Default build");
     task('default', [ "version" ] , function () {
-        console.log("Hello World!");
+        var app = require("./app");
+        app.hello();
     });
     
     desc("Check Node version")
